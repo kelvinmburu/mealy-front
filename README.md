@@ -43,10 +43,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Technology Used
 
-1. Python
-2. [Django version 4](https://docs.djangoproject.com/en/4.0/)
+1. Typescript
+2. C
 3. HTML, CSS and JavaScript
-4. Pip
+4. Shell
 5. Bootstrap CSS Framework
 6. Angular
 
