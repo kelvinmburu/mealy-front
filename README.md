@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
+## Project Run-Through
+* A few details about this project:
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/kelvinmburu/mealy-front)
+![Lines of Code](https://img.shields.io/tokei/lines/github/kelvinmburu/mealy-front)
+![GitHub License](https://img.shields.io/github/license/kelvinmburu/mealy-front)
+![GitHub Top Language](https://img.shields.io/github/languages/top/kelvinmburu/mealy-front)
+![GitHub Language Count](https://img.shields.io/github/languages/count/kelvinmburu/mealy-front)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/w/kelvinmburu/mealy-front)
+![GitHub Contributors](https://img.shields.io/github/contributors/kelvinmburu/mealy-front)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
@@ -25,3 +36,23 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Contribution
+
+- [Kelvin Mburu](https://github.com/kelvinmburu) 📖
+
+## Technology Used
+
+1. Python
+2. [Django version 4](https://docs.djangoproject.com/en/4.0/)
+3. HTML, CSS and JavaScript
+4. Pip
+5. Bootstrap CSS Framework
+6. Angular
+
+## Project Requirements & Prerequisites
+
+1. IDE of Choice
+2. Python3
+3. Browser of Choice
+
