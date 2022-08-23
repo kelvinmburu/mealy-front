@@ -46,7 +46,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 1. Typescript
 2. C
 3. HTML, CSS and JavaScript
-4. Shell
+4. JavaScript
 5. Bootstrap CSS Framework
 6. Angular
 
