@@ -50,7 +50,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Project Requirements & Prerequisites
 
 1. IDE of Choice
-2. Python3
+2. Python3 - For the backend
 3. Browser of Choice
 
 ## License
