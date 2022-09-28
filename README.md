@@ -41,6 +41,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - [Kelvin Mburu](https://github.com/kelvinmburu) 📖
 
+- If you wish to contribute to this project, fork the project and make a PR. You can also [Mail](mburuhkelvin@gmail.com) me directly.
+
 ## Technology Used
 
 1. Typescript
